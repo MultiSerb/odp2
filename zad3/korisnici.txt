@@ -1,0 +1,3 @@
+admin [READALL,ADD] sifra1234 
+obican [SVE] novasifra 
+monitor [READALL] 123 
